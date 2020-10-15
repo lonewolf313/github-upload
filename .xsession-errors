@@ -1,0 +1,249 @@
+Xsession: X session started for root at Thu 15 Oct 2020 06:38:48 AM EDT
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+localuser:root being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting SUDO_GID=1000
+dbus-update-activation-environment: setting MAIL=/var/mail/root
+dbus-update-activation-environment: setting USER=root
+dbus-update-activation-environment: setting HOME=/root
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-X6rx8Zc8fF,guid=0e49400a1d1514653ef7c9425f8826b8
+dbus-update-activation-environment: setting SUDO_UID=1000
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=root
+dbus-update-activation-environment: setting TERM=linux
+dbus-update-activation-environment: setting WINDOWPATH=1
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+dbus-update-activation-environment: setting SUDO_COMMAND=/usr/bin/startx
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SUDO_USER=osboxes
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/root/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/osboxes
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/gnome:/root/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+VBoxClient: error: No service specified. Quitting because nothing to do!
+VBoxClient: error: unrecognized option '--display'
+VBoxClient: info: Try 'VBoxClient --help' for more information
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-8J9SS0
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-8J9SS0
+SSH_AUTH_SOCK=/root/.cache/keyring-8J9SS0/ssh
+GNOME_KEYRING_CONTROL=/root/.cache/keyring-8J9SS0
+SSH_AUTH_SOCK=/root/.cache/keyring-8J9SS0/ssh
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+xrandr-plugin-Message: 06:38:49.946: Existing monitor config (/root/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: Unknown attached to Virtual1
+     status: on
+     width: 800
+     height: 600
+     rate: 60
+     primary: false
+     position: 0 0
+  Output: (null) attached to Virtual2
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual3
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual4
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual5
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual6
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual7
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual8
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Unknown attached to Virtual1
+     status: on
+     width: 800
+     height: 600
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to Virtual2
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual3
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual4
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual5
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual6
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual7
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to Virtual8
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+
+(csd-color:1492): color-plugin-WARNING **: 06:38:50.527: failed to get edid: unable to get EDID for output
+
+(csd-color:1492): color-plugin-WARNING **: 06:38:50.533: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(csd-color:1492): color-plugin-WARNING **: 06:38:51.035: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+
+(csd-color:1492): color-plugin-WARNING **: 06:38:51.038: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Cinnamon warning: Software rendering detected: llvmpipe (LLVM 9.0.1, 256 bits)
+Cinnamon warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+Clutter-Message: 06:38:51.646: Sync method: PRESENTATION TIME
+Cjs-Message: 06:38:51.809: JS LOG: About to start Cinnamon
+Cjs-Message: 06:38:51.809: JS LOG: ACTIVATING SOFTWARE RENDERING
+Cjs-Message: 06:38:51.810: JS LOG: [LookingGlass/error] Cinnamon Software Rendering mode enabled
+Cjs-Message: 06:38:51.891: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 80 ms
+Cjs-Message: 06:38:51.895: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 06:38:51.910: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+
+(cinnamon:1653): Cjs-WARNING **: 06:38:51.910: Some code accessed the property 'BackgroundManager' on the module 'backgroundManager'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Cinnamon warning: Log level 128: posix_spawn avoided (fd close requested) 
+
+(cinnamon:1653): Cjs-WARNING **: 06:38:52.057: Some code accessed the property 'EdgeFlipper' on the module 'edgeFlip'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Cjs-Message: 06:38:52.059: JS LOG: [LookingGlass/info] loaded at Thu Oct 15 2020 06:38:52 GMT-0400 (EDT)
+Cjs-Message: 06:38:52.059: JS LOG: Cinnamon started at Thu Oct 15 2020 06:38:52 GMT-0400 (EDT)
+Cjs-Message: 06:38:52.075: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
+Cjs-Message: 06:38:52.075: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
+Cjs-Message: 06:38:52.075: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+openGL version 3.3 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 06:38:52.111: JS LOG: [LookingGlass/info] Installing settings for show-desktop@cinnamon.org
+Cjs-Message: 06:38:52.111: JS LOG: [LookingGlass/info] Settings successfully installed for show-desktop@cinnamon.org
+Cjs-Message: 06:38:52.137: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 34 ms
+Cjs-Message: 06:38:52.146: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 10 ms
+Cjs-Message: 06:38:52.152: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 06:38:52.154: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 8 ms
+St-Message: 06:38:52.163: cogl npot texture sizes SUPPORTED
+Cjs-Message: 06:38:52.167: JS LOG: [LookingGlass/info] Installing settings for notifications@cinnamon.org
+Cjs-Message: 06:38:52.167: JS LOG: [LookingGlass/info] Settings successfully installed for notifications@cinnamon.org
+Cjs-Message: 06:38:52.171: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 06:38:52.184: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 30 ms
+Cjs-Message: 06:38:52.189: JS LOG: [LookingGlass/info] Installing settings for printers@cinnamon.org
+Cjs-Message: 06:38:52.189: JS LOG: [LookingGlass/info] Settings successfully installed for printers@cinnamon.org
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 06:38:52.205: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 20 ms
+Cjs-Message: 06:38:52.218: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 14 ms
+Cjs-Message: 06:38:52.266: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 48 ms
+Cjs-Message: 06:38:52.283: JS LOG: [LookingGlass/info] Installing settings for calendar@cinnamon.org
+Cjs-Message: 06:38:52.283: JS LOG: [LookingGlass/info] Settings successfully installed for calendar@cinnamon.org
+Cjs-Message: 06:38:52.348: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 80 ms
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 06:38:52.382: JS LOG: [LookingGlass/info] Installing settings for power@cinnamon.org
+Cjs-Message: 06:38:52.382: JS LOG: [LookingGlass/info] Settings successfully installed for power@cinnamon.org
+Cjs-Message: 06:38:52.407: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 58 ms
+Cjs-Message: 06:38:52.411: JS LOG: [LookingGlass/info] Installing settings for grouped-window-list@cinnamon.org
+Cjs-Message: 06:38:52.412: JS LOG: [LookingGlass/info] Settings successfully installed for grouped-window-list@cinnamon.org
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 06:38:52.423: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 06:38:52.443: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 36 ms
+
+(csd-power:1484): power-plugin-CRITICAL **: 06:38:52.500: abs_to_percentage: assertion 'max > min' failed
+Cjs-Message: 06:38:52.506: JS LOG: [LookingGlass/info] Installing settings for sound@cinnamon.org
+Cjs-Message: 06:38:52.506: JS LOG: [LookingGlass/info] Settings successfully installed for sound@cinnamon.org
+Cjs-Message: 06:38:52.556: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 114 ms
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 06:38:52.762: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 206 ms
+Cjs-Message: 06:38:53.016: JS LOG: Unknown network device type, is 14
+Cjs-Message: 06:38:53.253: JS LOG: [LookingGlass/info] Installing settings for menu@cinnamon.org
+Cjs-Message: 06:38:53.254: JS LOG: [LookingGlass/info] Settings successfully installed for menu@cinnamon.org
+nemo-desktop cannot be run as root, please try again as a normal user
+Exception ignored in: <function Base.__del__ at 0x7f087840adc0>
+Traceback (most recent call last):
+  File "/usr/lib/blueberry/blueberry-obex-agent.py", line 475, in __del__
+    self.__signals.DisconnectAll()
+AttributeError: 'Manager' object has no attribute '_Base__signals'
+Cjs-Message: 06:38:54.326: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 1564 ms
+Cjs-Message: 06:38:54.330: JS LOG: [LookingGlass/info] AppletManager started in 2270 ms
+Cjs-Message: 06:38:54.439: JS LOG: [LookingGlass/info] Cinnamon took 2630 ms to start
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cjs-Message: 06:38:54.739: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+Cinnamon warning: Log level 128: posix_spawn avoided (automatic reaping requested) (fd close requested) 
+cinnamon-session[1312]: WARNING: t+10.02271s: Detected that screensaver has appeared on the bus
+Cjs-Message: 06:39:13.603: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (org.x.StatusIcon.PID-1832-0)
+/usr/lib/python3/dist-packages/mintcommon/installer/_flatpak.py:13: PyGIWarning: AppStreamGlib was imported without specifying a version first. Use gi.require_version('AppStreamGlib', '1.0') before import to ensure that the right version gets loaded.
+  from gi.repository import AppStreamGlib, GLib, GObject, Gtk, Gio
+Cjs-Message: 06:39:33.267: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (org.x.StatusIcon.PID-1885-0)
+Cinnamon warning: Log level 128: posix_spawn avoided (fd close requested) 
